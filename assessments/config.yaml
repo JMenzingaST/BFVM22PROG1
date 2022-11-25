@@ -1,1 +1,2 @@
 datadir: 'data/KNMI.txt.tsv'
+file_assignemnt_1: '/data/datasets/Programming1/eeg_data.csv'
